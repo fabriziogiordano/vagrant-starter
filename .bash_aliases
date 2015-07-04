@@ -1,4 +1,3 @@
 # some more ls aliases
-alias ll='ls -alF'
+alias l='ls -al'
 alias la='ls -A'
-alias l='ls -CF'
